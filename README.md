@@ -1,0 +1,1 @@
+# redis-vagrant-vm
